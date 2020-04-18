@@ -1,0 +1,197 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "sweater",
+        "price": 10.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "men shirt",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-2.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "men fashion",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "sweter",
+        "price": 22.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "buckle",
+        "price": 88.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "men fashion",
+        "price": 32.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-6.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "men shoe",
+        "price": 45.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-7.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "neck-ties",
+        "price": 33.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-8.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "boxer-shorts",
+        "price": 33.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-9.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "men belt",
+        "price": 33.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-10.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "women sweater",
+        "price": 33.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-11.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "men fashion",
+        "price": 33.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-12.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
+
